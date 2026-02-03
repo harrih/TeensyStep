@@ -55,7 +55,7 @@
 ## Key Contributors
 
 - **luni64**: Primary maintainer, majority of commits
-- **Erik Tideman/Erik tideman**: Major contributor, especially for STM32 support
+- **Erik Tideman**: Major contributor, especially for STM32 support
 - **Florian Rau**: Static constexpr members fix
 
 ## Major Themes in improveCallback Branch
@@ -93,5 +93,5 @@
 - **v2.3.0**: Motor stopping and speed optimization fixes
 - **v2.2.0**: STM32F4 support
 - **v2.1.0**: DevTimer improvements
-- **V2.0.0**: Major version release
-- **V1.0.0**: Initial major version
+- **v2.0.0**: Major version release
+- **v1.0.0**: Initial major version
